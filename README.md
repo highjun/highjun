@@ -1,6 +1,5 @@
-### Engineer
+### Engineer Highjun
 
-Enginner who wants to develop anything I want to.
 
 <h3 align="center">Tech Stack</h3>
 <h4>Programming Languages</h4>

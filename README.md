@@ -14,7 +14,7 @@
 <h4>Frameworks</h4>
 <p>
   <img src="https://img.shields.io/badge/Pytorch-FF6600?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-87CEEB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/React-87CEEB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  -->
 </p>
